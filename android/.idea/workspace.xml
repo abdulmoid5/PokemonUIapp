@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d602fdae-14fa-4c62-9e35-c90456317c03" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Components/Details.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Components/Details.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Components/Items.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Components/Loading.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Components/Loading.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Components/Pokemons.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Components/Pokemons.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Components/Profile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pokedex/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pokemonapp/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pokedex/MainApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pokemonapp/MainApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app.json" beforeDir="false" afterPath="$PROJECT_DIR$/../app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assests/character.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assests/close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assests/items.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assests/valor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assests/valor2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Podfile" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Podfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pokedex-tvOS/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pokemonapp-tvOS/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pokedex-tvOSTests/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pokemonapp-tvOSTests/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pokedex.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pokemonapp.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pokedex.xcodeproj/xcshareddata/xcschemes/Pokedex-tvOS.xcscheme" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pokemonapp.xcodeproj/xcshareddata/xcschemes/Pokemonapp-tvOS.xcscheme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pokedex.xcodeproj/xcshareddata/xcschemes/Pokedex.xcscheme" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pokemonapp.xcodeproj/xcshareddata/xcschemes/Pokemonapp.xcscheme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pokedex/AppDelegate.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pokemonapp/AppDelegate.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pokedex/AppDelegate.m" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pokemonapp/AppDelegate.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pokedex/Base.lproj/LaunchScreen.xib" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pokemonapp/Base.lproj/LaunchScreen.xib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pokedex/Images.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pokemonapp/Images.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pokedex/Images.xcassets/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pokemonapp/Images.xcassets/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pokedex/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pokemonapp/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pokedex/main.m" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pokemonapp/main.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/PokedexTests/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/PokemonappTests/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/PokedexTests/PokedexTests.m" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/PokemonappTests/PokemonappTests.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package.json" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="34" />
+    <option name="y" value="23" />
+    <option name="width" value="1055" />
+    <option name="height" value="805" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d602fdae-14fa-4c62-9e35-c90456317c03" name="Default Changelist" comment="" />
+      <created>1606087563020</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606087563020</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="34" y="23" width="1055" height="805" extended-state="0" />
+    <layout>
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.34254688" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Build Variants" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Designer" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Resources Explorer" order="7" />
+      <window_info id="Favorites" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" sideWeight="0.4995064" weight="0.32959327" />
+      <window_info anchor="bottom" id="TODO" order="1" sideWeight="0.4995064" weight="0.32959327" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="2" sideWeight="0.49851924" visible="true" weight="0.32959327" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.50148076" side_tool="true" visible="true" weight="0.32959327" />
+      <window_info active="true" anchor="bottom" id="Build" order="4" visible="true" weight="0.32959327" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Gradle" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+    </layout>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
