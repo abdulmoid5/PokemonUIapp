@@ -1,0 +1,1 @@
+export const Pokemons_endpoint = "https://pokeapi.co/api/v2/pokemon";

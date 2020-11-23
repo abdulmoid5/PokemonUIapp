@@ -1,32 +1,27 @@
 import React, {Component} from 'react';
-import {StatusBar, Dimensions, View} from 'react-native';
-import {NavigationContainer} from '@react-navigation/native';
-import {createMaterialTopTabNavigator} from '@react-navigation/material-top-tabs';
-import {createStackNavigator} from '@react-navigation/stack';
-import Pokemons from './Components/Pokemons';
-import Details from './Components/Details';
-import Splash from './Components/Splash';
+import { Provider } from "react-redux";
+import reducer from "./redux/reducers";
+import thunk from "redux-thunk";
+import { createStore, applyMiddleware } from "redux";
+import RootStack from "./routers/route";
+
+
+const middleware = [thunk];
+let store = createStore(reducer, applyMiddleware(...middleware));
 
 
 
-
-const Stack = createStackNavigator();
 
 
 
 class App extends Component {
   render() {
     return (
-      <>
-        <StatusBar hidden />
-        <NavigationContainer>
-          <Stack.Navigator initialRouteName="Splash" headerMode="none">
-          <Stack.Screen name="Splash" component={Splash} />
-            <Stack.Screen name="Pokemons" component={Pokemons} />
-            <Stack.Screen name="Details" component={Details} />
-          </Stack.Navigator>
-        </NavigationContainer>
-      </>
+      
+        <Provider store={store}>
+        <RootStack />
+      </Provider>
+      
     );
   }
 }
