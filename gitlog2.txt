@@ -1,0 +1,83 @@
+commit 8c914598c6255d31b278f4131ce15a5942d558d4 (HEAD -> 02-pokemon-redux-added)
+Author: Abdul Moid Babar <abdulmoidbabar@Abduls-MacBook-Pro.local>
+Date:   Mon Nov 23 05:21:19 2020 +0000
+
+    redux added
+
+commit 2b2663ac8467439135654073d1b6e28cb4c5e420
+Author: Abdul Moid Babar <abdulmoidbabar@Abduls-MacBook-Pro.local>
+Date:   Mon Nov 23 01:58:12 2020 +0000
+
+    node modules removed
+
+commit 270073b12f434d99305c59eceb788de6fd0087c9
+Author: abdulmoid5 <abdulmoidbabar@gmail.com>
+Date:   Mon Nov 23 01:50:25 2020 +0000
+
+    Create README.md
+
+commit cb3a1d2176c67871f212be1a9b4a97e89cacf732
+Author: Abdul Moid Babar <abdulmoidbabar@Abduls-MacBook-Pro.local>
+Date:   Mon Nov 23 01:41:04 2020 +0000
+
+    PokemonUI Redux excluded
+:...skipping...
+commit 8c914598c6255d31b278f4131ce15a5942d558d4 (HEAD -> 02-pokemon-redux-added)
+Author: Abdul Moid Babar <abdulmoidbabar@Abduls-MacBook-Pro.local>
+Date:   Mon Nov 23 05:21:19 2020 +0000
+
+    redux added
+
+commit 2b2663ac8467439135654073d1b6e28cb4c5e420
+Author: Abdul Moid Babar <abdulmoidbabar@Abduls-MacBook-Pro.local>
+Date:   Mon Nov 23 01:58:12 2020 +0000
+
+    node modules removed
+
+commit 270073b12f434d99305c59eceb788de6fd0087c9
+Author: abdulmoid5 <abdulmoidbabar@gmail.com>
+Date:   Mon Nov 23 01:50:25 2020 +0000
+
+    Create README.md
+
+commit cb3a1d2176c67871f212be1a9b4a97e89cacf732
+Author: Abdul Moid Babar <abdulmoidbabar@Abduls-MacBook-Pro.local>
+Date:   Mon Nov 23 01:41:04 2020 +0000
+
+    PokemonUI Redux excluded
+~
+Abduls-MacBook-Pro:PokemonUI abdulmoidbabar$ git branchh
+git: 'branchh' is not a git command. See 'git --help'.
+
+The most similar command is
+	branch
+Abduls-MacBook-Pro:PokemonUI abdulmoidbabar$ git branch
+  01-pokemon-redux-excluded
+* 02-pokemon-redux-added
+Abduls-MacBook-Pro:PokemonUI abdulmoidbabar$ git checkout 01-pokemon-redux-excluded
+Switched to branch '01-pokemon-redux-excluded'
+Abduls-MacBook-Pro:PokemonUI abdulmoidbabar$ git log
+commit 6c239b1334f9d5bc71be6310b76166d68f0d3126 (HEAD -> 01-pokemon-redux-excluded)
+Author: Abdul Moid Babar <abdulmoidbabar@Abduls-MacBook-Pro.local>
+Date:   Mon Nov 23 02:18:25 2020 +0000
+
+    add png file
+
+commit 2b2663ac8467439135654073d1b6e28cb4c5e420
+Author: Abdul Moid Babar <abdulmoidbabar@Abduls-MacBook-Pro.local>
+Date:   Mon Nov 23 01:58:12 2020 +0000
+
+    node modules removed
+
+commit 270073b12f434d99305c59eceb788de6fd0087c9
+Author: abdulmoid5 <abdulmoidbabar@gmail.com>
+Date:   Mon Nov 23 01:50:25 2020 +0000
+
+    Create README.md
+
+commit cb3a1d2176c67871f212be1a9b4a97e89cacf732
+Author: Abdul Moid Babar <abdulmoidbabar@Abduls-MacBook-Pro.local>
+Date:   Mon Nov 23 01:41:04 2020 +0000
+
+    PokemonUI Redux excluded
+Abduls-MacBook-Pro:PokemonUI abdulmoidbabar$ 
